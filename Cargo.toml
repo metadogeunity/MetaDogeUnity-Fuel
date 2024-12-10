@@ -1,0 +1,16 @@
+[package]
+name = "metadogeunity_fuel"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+fuels = "0.38"
+tokio = { version = "1", features = ["full"] }
+
+[features]
+default = [] # Default features when none are specified
+mainnet = [] # Define the `mainnet` feature
+
+[[bin]]
+name = "split_coins"
+path = "split_coins.rs"

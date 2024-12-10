@@ -1,0 +1,13 @@
+[[package]]
+name = "MetaDogeUnity_Fuel"
+source = "member"
+dependencies = ["std"]
+
+[[package]]
+name = "core"
+source = "path+from-root-48632A10D323EAAF"
+
+[[package]]
+name = "std"
+source = "git+https://github.com/fuellabs/sway?rev#ff8291a2b1a7997f257120b89aeec25ac3bd8264"
+dependencies = ["core"]
