@@ -1,6 +1,8 @@
-MetaDogeUnity Fuel - Smart Contract for Gaming on Fuel Network
+# **MetaDogeUnity Fuel - Smart Contract for Gaming on Fuel Network**
 
-MetaDogeUnity is an innovative gaming project utilizing smart contract technology on the Fuel blockchain. This repository includes the deployment scripts, interaction code, and game logic for the MetaDogeUnity Fuel project.
+AAA Third person shooting Open World game for Mobile and PC (www.metadogeunity.com) developed by Zenith Gaming Studio LLC established in Dubai , UAE . The game is available for IOS and Android version to deliver a high-quality open world gaming experience with both multiplayer and single-player modes on Fuel Network.
+
+Watch the **MetaDogeUnity Fuel** trailer here: [TRAILER](https://www.youtube.com/watch?v=kCTekjhb8LA&t=2s)
 
 🚀 Project Overview
 
